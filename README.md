@@ -58,7 +58,4 @@ Time-series features (trends, lag features)
 Advanced models (CatBoost, ensembles)
 Better categorical encoding
 
-If you want, I can also make:
 
-a shorter README
-or a more “winning-style” Kaggle README 👍
